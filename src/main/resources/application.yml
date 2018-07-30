@@ -1,0 +1,9 @@
+spring:
+  resources:
+    chain:
+      enabled: true
+server:
+  port: 8080
+
+jwt:
+  secret: plantwoo-secret
